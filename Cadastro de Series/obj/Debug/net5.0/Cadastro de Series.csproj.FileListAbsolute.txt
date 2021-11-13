@@ -1,0 +1,16 @@
+C:\Users\wwele\source\repos\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\Cadastro de Series.exe
+C:\Users\wwele\source\repos\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\Cadastro de Series.deps.json
+C:\Users\wwele\source\repos\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\Cadastro de Series.runtimeconfig.json
+C:\Users\wwele\source\repos\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\Cadastro de Series.runtimeconfig.dev.json
+C:\Users\wwele\source\repos\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\Cadastro de Series.dll
+C:\Users\wwele\source\repos\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\ref\Cadastro de Series.dll
+C:\Users\wwele\source\repos\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\Cadastro de Series.pdb
+C:\Users\wwele\source\repos\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\Cadastro de Series.csproj.AssemblyReference.cache
+C:\Users\wwele\source\repos\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\Cadastro de Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwele\source\repos\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\Cadastro de Series.AssemblyInfoInputs.cache
+C:\Users\wwele\source\repos\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\Cadastro de Series.AssemblyInfo.cs
+C:\Users\wwele\source\repos\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\Cadastro de Series.csproj.CoreCompileInputs.cache
+C:\Users\wwele\source\repos\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\Cadastro de Series.dll
+C:\Users\wwele\source\repos\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\ref\Cadastro de Series.dll
+C:\Users\wwele\source\repos\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\Cadastro de Series.pdb
+C:\Users\wwele\source\repos\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\Cadastro de Series.genruntimeconfig.cache
